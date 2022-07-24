@@ -1,0 +1,18 @@
+s1:
+set 1: yes, no, fuck off, other
+
+s2:
+set 2: hello, bye, help, no, unknown, yes, you
+
+one:
+Single Hand in use
+
+t:
+trained
+
+g:
+Generalized data, data has been rotated randomly
+
+n:
+data normalized
+
